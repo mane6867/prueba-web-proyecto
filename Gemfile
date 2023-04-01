@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-git_source(:github) { |repo| "https://github.com/mane6867/prueba-web-proyecto.git" }
+git_source(:github) { |"mane6867/prueba-web-proyecto"| "https://github.com/mane6867/prueba-web-proyecto.git" }
 
 ruby "3.1.0"
 
